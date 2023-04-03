@@ -50,7 +50,7 @@ ETL is used to integrate data from multiple financial systems such as accounting
 
 ETL is used to integrate data from multiple retail systems such as point-of-sale systems, online stores, and inventory management systems to provide a comprehensive view of sales and inventory data.
 
-* :factory: Manufacturing
+#### :factory: Manufacturing
 
 ETL is used to integrate data from multiple manufacturing systems such as production systems, quality control systems, and supply chain management systems to provide a consolidated view of manufacturing operations data.
 
