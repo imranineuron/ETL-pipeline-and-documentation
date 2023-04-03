@@ -34,12 +34,12 @@ The ETL pipeline typically consists of several stages, including:
 
 ETL (Extract, Transform, Load) is used in a variety of industries and scenarios where data integration is necessary. Here are some examples of where ETL is commonly used:
 
-* Business intelligence and analytics: ETL is often used to integrate data from multiple sources into a data warehouse for business intelligence and analytics purposes. This allows organizations to gain a holistic view of their data and make informed decisions based on insights generated from this data.
+* Business intelligence and analytics :bar_chart: : ETL is often used to integrate data from multiple sources into a data warehouse for business intelligence and analytics purposes. This allows organizations to gain a holistic view of their data and make informed decisions based on insights generated from this data.
 
-* Healthcare: ETL is used to integrate data from disparate healthcare systems such as electronic health records, medical imaging systems, and billing systems to provide a comprehensive view of patient health information.
+* Healthcare :hospital:: ETL is used to integrate data from disparate healthcare systems such as electronic health records, medical imaging systems, and billing systems to provide a comprehensive view of patient health information.
 
-* Finance: ETL is used to integrate data from multiple financial systems such as accounting software, transactional systems, and banking systems to provide a consolidated view of financial data.
+* Finance :bank:: ETL is used to integrate data from multiple financial systems such as accounting software, transactional systems, and banking systems to provide a consolidated view of financial data.
 
-* Retail: ETL is used to integrate data from multiple retail systems such as point-of-sale systems, online stores, and inventory management systems to provide a comprehensive view of sales and inventory data.
+* Retail :department_store:: ETL is used to integrate data from multiple retail systems such as point-of-sale systems, online stores, and inventory management systems to provide a comprehensive view of sales and inventory data.
 
-* Manufacturing: ETL is used to integrate data from multiple manufacturing systems such as production systems, quality control systems, and supply chain management systems to provide a consolidated view of manufacturing operations data.
+* Manufacturing :factory:: ETL is used to integrate data from multiple manufacturing systems such as production systems, quality control systems, and supply chain management systems to provide a consolidated view of manufacturing operations data.
