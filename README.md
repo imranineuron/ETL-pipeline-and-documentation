@@ -1,8 +1,8 @@
-# ETL pipeline and documentation :pencil2:
+# :pencil2: ETL pipeline and documentation 
 
 When it comes to building ETL pipelines, documentation is a critical component. Documentation helps to ensure that everyone involved in the ETL process understands what is happening at each stage, and why it's important. In addition, documentation provides a reference guide for troubleshooting and maintenance, ensuring that the ETL process remains reliable and efficient over time.
 
-## What is ETL :thinking:
+## :thinking: What is ETL 
 
 ![](https://uploads-ssl.webflow.com/61aaafd445ccb86f98678181/6217a939b2338c00424dabc4_aqw_banner%20(1).gif)
 
@@ -34,7 +34,7 @@ The ETL pipeline typically consists of several stages, including:
 
 ETL (Extract, Transform, Load) is used in a variety of industries and scenarios where data integration is necessary. Here are some examples of where ETL is commonly used:
 
-* Business intelligence and analytics :bar_chart: : ETL is often used to integrate data from multiple sources into a data warehouse for business intelligence and analytics purposes. This allows organizations to gain a holistic view of their data and make informed decisions based on insights generated from this data.
+* :bar_chart: Business intelligence and analytics  : ETL is often used to integrate data from multiple sources into a data warehouse for business intelligence and analytics purposes. This allows organizations to gain a holistic view of their data and make informed decisions based on insights generated from this data.
 
 * Healthcare :hospital:: ETL is used to integrate data from disparate healthcare systems such as electronic health records, medical imaging systems, and billing systems to provide a comprehensive view of patient health information.
 
