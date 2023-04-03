@@ -17,7 +17,7 @@ The ETL pipeline typically consists of several stages, including:
 
 ## Why ETL is Important
 
-*Data Integration: ETL allows organizations to integrate data from various sources and consolidate it into a single location, such as a data warehouse or data lake. This provides a unified view of the data, which can help organizations make better decisions and gain insights into their business.
+* Data Integration: ETL allows organizations to integrate data from various sources and consolidate it into a single location, such as a data warehouse or data lake. This provides a unified view of the data, which can help organizations make better decisions and gain insights into their business.
 
 Data Quality: ETL processes can help improve the quality of data by cleaning and standardizing it. This ensures that the data is accurate, consistent, and free from errors, which can help organizations make better decisions based on reliable information.
 
