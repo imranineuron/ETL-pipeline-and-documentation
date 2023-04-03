@@ -76,3 +76,23 @@ Finally, the transformed data is loaded into the target system or destination. T
 Overall, data sources and destinations are critical components of the ETL process. It's important to understand the different types of data sources and destinations, as well as how to extract, transform, and load data from one system to another.
 
 ## :point_right: List of the Top 10 ETL (Extract, Transform, Load) Tools
+
+* Talend Open Studio: Talend Open Studio is an open-source ETL tool that offers a wide range of features and capabilities for data integration, data quality, and big data processing. It provides a drag-and-drop interface for designing ETL jobs and supports multiple data sources and destinations.
+
+* Apache NiFi: Apache NiFi is an open-source ETL tool that enables the automation of data flows between systems. It provides a web-based interface for designing and monitoring data flows, and it supports data transformation and routing.
+
+* Apache Kafka: Apache Kafka is a distributed messaging system that can be used as an ETL tool. It provides high-throughput and low-latency data ingestion and processing capabilities and supports real-time data streams.
+
+* Pentaho Data Integration: Pentaho Data Integration is a popular ETL tool that provides a graphical user interface for designing ETL jobs. It offers support for various data sources and destinations, as well as data profiling and cleansing features.
+
+* Apache Airflow: Apache Airflow is an open-source platform for designing, scheduling, and monitoring ETL workflows. It supports Python-based scripting for data transformation and provides a web-based interface for job management.
+
+* AWS Glue: AWS Glue is a cloud-based ETL service provided by Amazon Web Services. It offers fully managed ETL capabilities, including data discovery, schema mapping, and job scheduling.
+
+* Microsoft SQL Server Integration Services (SSIS): SSIS is an ETL tool provided by Microsoft as part of the SQL Server suite of products. It provides a graphical user interface for designing ETL jobs and supports a wide range of data sources and destinations.
+
+* Informatica PowerCenter: Informatica PowerCenter is an enterprise-grade ETL tool that offers a range of features for data integration, data quality, and data governance. It supports a wide range of data sources and destinations and provides a scalable and reliable platform for ETL jobs.
+
+* IBM InfoSphere DataStage: IBM InfoSphere DataStage is an ETL tool provided by IBM that offers a graphical user interface for designing ETL jobs. It provides a wide range of features for data integration, data transformation, and data quality.
+
+* Oracle Data Integrator (ODI): ODI is an ETL tool provided by Oracle that supports a wide range of data sources and destinations. It offers a graphical user interface for designing ETL jobs and provides features for data mapping, transformation, and validation.
