@@ -4,6 +4,9 @@ An ETL (Extract, Transform, Load) pipeline is a process that extracts data from 
 
 ## What is ETL :thinking:
 
+![](https://uploads-ssl.webflow.com/61aaafd445ccb86f98678181/6217a939b2338c00424dabc4_aqw_banner%20(1).gif)
+
+
 An ETL (Extract, Transform, Load) pipeline is a set of processes that extract data from various sources, transform it into a consistent format, and load it into a target database or data warehouse for analysis and reporting. The ETL pipeline is a critical component of a data integration system, which is used to consolidate data from multiple sources and transform it into a standardized format for analysis and decision-making
 
 The ETL pipeline typically consists of several stages, including:
