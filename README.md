@@ -75,4 +75,4 @@ Finally, the transformed data is loaded into the target system or destination. T
 
 Overall, data sources and destinations are critical components of the ETL process. It's important to understand the different types of data sources and destinations, as well as how to extract, transform, and load data from one system to another.
 
-## :point_right: list of the top 10 ETL (Extract, Transform, Load) tools
+## :point_right: list of the Top 10 ETL (Extract, Transform, Load) Tools
