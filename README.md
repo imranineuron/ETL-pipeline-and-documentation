@@ -34,19 +34,19 @@ The ETL pipeline typically consists of several stages, including:
 
 ETL (Extract, Transform, Load) is used in a variety of industries and scenarios where data integration is necessary. Here are some examples of where ETL is commonly used:
 
-* :bar_chart: Business intelligence and analytics
+#### :bar_chart: Business intelligence and analytics
 
 ETL is often used to integrate data from multiple sources into a data warehouse for business intelligence and analytics purposes. This allows organizations to gain a holistic view of their data and make informed decisions based on insights generated from this data.
 
-* :hospital: Healthcare
+#### :hospital: Healthcare
 
 ETL is used to integrate data from disparate healthcare systems such as electronic health records, medical imaging systems, and billing systems to provide a comprehensive view of patient health information.
 
-*  :bank: Finance
+####  :bank: Finance
 
 ETL is used to integrate data from multiple financial systems such as accounting software, transactional systems, and banking systems to provide a consolidated view of financial data.
 
-* :department_store: Retail
+#### :department_store: Retail
 
 ETL is used to integrate data from multiple retail systems such as point-of-sale systems, online stores, and inventory management systems to provide a comprehensive view of sales and inventory data.
 
