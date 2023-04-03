@@ -15,7 +15,7 @@ The ETL pipeline typically consists of several stages, including:
 
 3. Loading: In this stage, the transformed data is loaded into a target database or data warehouse, where it can be accessed by users for analysis and reporting.
 
-:point_right: ## Why ETL is Important
+## :point_right: Why ETL is Important
 
 * Data Integration: ETL allows organizations to integrate data from various sources and consolidate it into a single location, such as a data warehouse or data lake. This provides a unified view of the data, which can help organizations make better decisions and gain insights into their business.
 
