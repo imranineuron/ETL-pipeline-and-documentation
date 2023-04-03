@@ -74,3 +74,5 @@ After the data is extracted, it must be transformed to conform to a consistent f
 Finally, the transformed data is loaded into the target system or destination. The data may be loaded into a data warehouse or a data mart for analytics and reporting purposes, or it may be loaded into an application for real-time processing and decision making.
 
 Overall, data sources and destinations are critical components of the ETL process. It's important to understand the different types of data sources and destinations, as well as how to extract, transform, and load data from one system to another.
+
+## :point_right: list of the top 10 ETL (Extract, Transform, Load) tools
