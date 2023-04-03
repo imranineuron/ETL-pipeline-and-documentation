@@ -1,6 +1,6 @@
 # ETL pipeline and documentation :pencil2:
 
-An ETL (Extract, Transform, Load) pipeline is a process that extracts data from one or more sources, transforms it into a format suitable for analysis, and loads it into a target system such as a data warehouse or a data lake. ETL pipelines are commonly used in data integration, data migration, and business intelligence applications to consolidate and transform data from multiple sources into a unified format.
+When it comes to building ETL pipelines, documentation is a critical component. Documentation helps to ensure that everyone involved in the ETL process understands what is happening at each stage, and why it's important. In addition, documentation provides a reference guide for troubleshooting and maintenance, ensuring that the ETL process remains reliable and efficient over time.
 
 ## What is ETL :thinking:
 
