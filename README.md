@@ -34,7 +34,7 @@ The ETL pipeline typically consists of several stages, including:
 
 ETL (Extract, Transform, Load) is used in a variety of industries and scenarios where data integration is necessary. Here are some examples of where ETL is commonly used:
 
-* :bar_chart: ==Business intelligence and analytics ==
+* :bar_chart: ==Business intelligence and analytics==
 
 ETL is often used to integrate data from multiple sources into a data warehouse for business intelligence and analytics purposes. This allows organizations to gain a holistic view of their data and make informed decisions based on insights generated from this data.
 
